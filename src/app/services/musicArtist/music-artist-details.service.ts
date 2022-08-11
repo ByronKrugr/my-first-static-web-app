@@ -11,6 +11,7 @@ export class MusicArtistDetailsService {
   constructor(private http: HttpClient) { }
 
   getArtistDetail(): Observable<any> {
-    return this.http.get('https://api.deezer.com/artist/13');
+    // return this.http.get('https://api.deezer.com/artist/13');
+    return this.http.get('https://catfact.ninja/fact');
   }
 }
