@@ -11,6 +11,6 @@ describe('MusicArtistDetailsService', () => {
   // });
 
   // it('should be created', () => {
-  //   expect(service).toBeTruthy();
+  //   expect(sergitvice).toBeTruthy();
   // });
 });
