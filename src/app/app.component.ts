@@ -35,5 +35,6 @@ export class AppComponent {
 
   a(b: any) {
     console.log(b)
+
   }
 }
